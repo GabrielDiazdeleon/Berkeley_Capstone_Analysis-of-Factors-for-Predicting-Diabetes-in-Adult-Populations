@@ -29,6 +29,7 @@ Few self-report measures are essential in classifying diabetes diagnoses
 
 ##### Preliminary Results:
 ###### Data cleaning:
+        - Duplicates are dropped immediately after file is loaded into notebook for both data sets
         - Simple steps are taken to decode numerical category variables into values that represent the categorical groups (since not all classes are linearly distributed, this could change the classifier's performance)
         - The first education class is eliminated due to an extremely small amount of samples
         - Feature engineering is the final project goal, so the process of evaluating the influence of individual factors is excluded from the initial report
