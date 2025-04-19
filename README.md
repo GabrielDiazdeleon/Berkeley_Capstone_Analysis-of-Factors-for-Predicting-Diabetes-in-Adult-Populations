@@ -15,27 +15,17 @@ CDC Diabetes Health Indicators (UCI Machine Learning Repository)
 https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
 #### Methodology
-•	Data Analysis
-        - Correlation
-•	Regression
-        - Linear Regression
-        - Logistic Regression
-        - Lasso Regression/Regularization
-        - Ridge Regression/Regularization
-        - Feature Engineering (e.g. Lasso regression)
-•	Classification
-        - Logistic Regression
-        - KNN
-        - Decision Trees
-        - Support-Vector Machine (SVM)
-•   Feature Engineering (e.g. kernels for non-linear features)
+Data Analysis: Correlation
+Regression: Linear Regression, Logistic Regression, Lasso Regression/Regularization, Ridge Regression/Regularization
+Classification: Logistic Regression, KNN, Decision Trees, Support-Vector Machine (SVM)
+Feature Engineering
 
 #### Results
 ##### Expected Results:
-•	Patient history is highly correlated with diabetes diagnosis
-•	Greater socioeconomic capabilities negatively correlate with diabetes diagnosis (e.g. lower chance of diabetes)
-•	Self-report measures have a high degree of correlation between each other
-•	Few self-report measures are essential in classifying diabetes diagnoses
+Patient history is highly correlated with diabetes diagnosis
+Greater socioeconomic capabilities negatively correlate with diabetes diagnosis (e.g. lower chance of diabetes)
+Self-report measures have a high degree of correlation between each other
+Few self-report measures are essential in classifying diabetes diagnoses
 
 ##### Preliminary Results:
 ###### Data cleaning:
