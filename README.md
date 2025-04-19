@@ -61,7 +61,7 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [[Link to notebook 1]()](https://github.com/GabrielDiazdeleon/Berkeley_Capstone_Analysis-of-Factors-for-Predicting-Diabetes-in-Adult-Populations/blob/0e1e74cc0b96ae297abdfda51567c535a2eaaaf1/capstone_diabetes_preliminary.ipynb)
 - [Link to notebook 2]()
 - [Link to notebook 3]()
 
