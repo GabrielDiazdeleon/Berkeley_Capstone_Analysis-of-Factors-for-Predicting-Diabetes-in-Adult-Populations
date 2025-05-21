@@ -37,7 +37,7 @@ Expected Results:
 •	Self-report measures have a high degree of correlation between each other
 •	Few self-report measures are essential in classifying diabetes diagnoses
 
-Preliminary Results:
+Preliminary Results:  
 •   Data cleaning:
         - The first education class is eliminated due to an extremely small amount of samples  
         - The 3-target dataset has an absurdly small amount of samples for the pre-diabetic class, which also decreases the samples for the diabetic class. As a result, we will focus on the 2-target dataset  
