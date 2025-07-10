@@ -14,21 +14,21 @@ To identify the factors most closely related to, and investigate the efficacy of
 CDC Diabetes Health Indicators (UCI Machine Learning Repository)
 https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
-#### Methodology
-• Data Analysis
-        - Data Exploration
-        - Correlation
-• Classification
-        - Logistic Regression
-        - KNN
-        - Decision Trees
-        - Support-Vector Machine (SVM)
-        - Feature Engineering (e.g. kernels for non-linear features)
-• Ensemble Techniques
-        - Voting
-        - Stacking
-        - Boosting
-        - Further feature engineering
+#### Methodology  
+• Data Analysis  
+        - Data Exploration  
+        - Correlation  
+• Classification  
+        - Logistic Regression  
+        - KNN  
+        - Decision Trees  
+        - Support-Vector Machine (SVM)  
+        - Feature Engineering (e.g. kernels for non-linear features)  
+• Ensemble Techniques  
+        - Voting  
+        - Stacking  
+        - Boosting  
+        - Further feature engineering  
 
 #### Results
 Expected Results:  
