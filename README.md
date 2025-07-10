@@ -31,7 +31,7 @@ https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
         - Further feature engineering
 
 #### Results
-Expected Results:
+Expected Results:  
 •	Patient history is highly correlated with diabetes diagnosis  
 •	Greater socioeconomic capabilities negatively correlate with diabetes diagnosis (e.g. lower chance of diabetes)  
 •	Self-report measures have a high degree of correlation between each other  
