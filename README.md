@@ -32,10 +32,10 @@ https://archive.ics.uci.edu/dataset/891/cdc+diabetes+health+indicators
 
 #### Results
 Expected Results:
-•	Patient history is highly correlated with diabetes diagnosis
-•	Greater socioeconomic capabilities negatively correlate with diabetes diagnosis (e.g. lower chance of diabetes)
-•	Self-report measures have a high degree of correlation between each other
-•	Few self-report measures are essential in classifying diabetes diagnoses
+•	Patient history is highly correlated with diabetes diagnosis  
+•	Greater socioeconomic capabilities negatively correlate with diabetes diagnosis (e.g. lower chance of diabetes)  
+•	Self-report measures have a high degree of correlation between each other  
+•	Few self-report measures are essential in classifying diabetes diagnoses  
 
 Preliminary Results:  
 •   Data cleaning:
